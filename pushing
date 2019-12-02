@@ -1,0 +1,6 @@
+1> go to the directory
+2> git int
+3> git add .
+4> git commit -m "<message>"
+5> now goto git and create a repo and there we get the https link to add git origin. Run that command.
+6> git push -u origin master for the first push and then git push origin master.

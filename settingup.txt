@@ -1,0 +1,6 @@
+1> check gti version:  git --version
+2> install git if its not present: sudo apt-get install git
+3> set the global user an email :git config --global user.name "erober" , git config --global user.email "ramsonmoso@gmail.com"
+4> ssh-keygen -t rsa -b 4096 -C "ramsonmoso@gmail.com" , and provide storage path as /.ssh
+5> now copy the id_rsa  and paste in the ssh in github
+
